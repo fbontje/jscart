@@ -1,0 +1,39 @@
+#cargando {
+    display: none;
+}
+footer{
+    color:white;
+}
+footer a{
+    color: white;
+}
+.btn-primary.agregar-carrito{
+    background-color: #fed136;
+    border-color: #fed136;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.7rem;
+    font-size: 1rem;
+}
+.btn-primary.agregar-carrito:hover{
+    background-color: white;
+    border-color:black;
+    color: black;
+    font-weight: bold;
+}
+.title{    
+    font-size: 54px;
+    left: 0;
+    font-weight: 550;
+    border-bottom: solid #fed136 5px;
+    text-transform: uppercase;
+}
+.borrar-producto{
+    color: red;
+}
+.borrar-producto:hover{
+    color: red;
+}
+.navbar-brand img{
+    height: 3rem;
+}
